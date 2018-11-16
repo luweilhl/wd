@@ -52,7 +52,7 @@
 					<hr>
 				</div>
 				<div class="main-new">
-					<a href="http://39.105.188.92:3007/product_details.html?did=1"><img src="img/show_1.jpg" alt=""/></a> 
+					<a href="39.105.188.92:3007/product_details.html?did=1"><img src="img/show_1.jpg" alt=""/></a> 
 					<a href="#"><img src="img/show_2.jpg" alt=""/></a> 
 					<a href="#"><img src="img/show_3.jpg" alt=""/></a>
 					<a href="#"><img src="img/show_4.jpg" alt=""/></a>

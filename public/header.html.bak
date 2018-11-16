@@ -1,4 +1,4 @@
-<body> 
+<body>
     <div class="nav">
         <div class="nav-bd">
             <ul>
@@ -189,7 +189,7 @@
                         </div>
                         <ul>
                             <li>
-                                <a href="http://39.105.188.92:3007">首页</a>
+                                <a href="http://127.0.0.1:3007">首页</a>
                             </li>
                             <li>
                                 <a href="#">活动宝贝</a>
